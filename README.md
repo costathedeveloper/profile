@@ -1,29 +1,7 @@
-**GitHub Description:**
+# Profile Card 
+
 ![profile](https://github.com/costathedeveloper/profile/assets/95866232/4764cb07-fed0-4ddb-8397-624220a31026)
-
-
-**Profile Card for Full-Stack Developer**
-
-This repository contains a simple and stylish profile card template for showcasing the profile of a Full-Stack Developer. The profile card includes details such as the developer's name, role, expertise, and a list of skills. It also provides buttons for easy contact and access to the developer's portfolio.
-
-**Key Features:**
-- Modern and responsive design.
-- Gradient background and box shadow for a visually appealing look.
-- Hover effects on skills and buttons for enhanced interactivity.
-
-**Usage:**
-1. Clone the repository: `git clone  https://github.com/costathedeveloper/profile`
-2. Open the `index.html` file in your preferred web browser.
-
-Feel free to customize the content and styles according to your needs. Contributions and feedback are welcome!
-
----
-
-**README:**
-
-# Profile Card for Full-Stack Developer
-
-![Profile Card Preview](img/card-preview.png)
+ https://costathedeveloper.github.io/profile/
 
 ## Overview
 
