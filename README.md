@@ -1,6 +1,9 @@
 # Profile Card 
 
 ![profile](https://github.com/costathedeveloper/profile/assets/95866232/4764cb07-fed0-4ddb-8397-624220a31026)
+
+#live preview
+
  https://costathedeveloper.github.io/profile/
 
 ## Overview
